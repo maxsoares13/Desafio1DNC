@@ -1,8 +1,6 @@
 # Desafio - Escola DNC
 
-## Landing Page Arquitetura
-
-Este é um desafio da Escola DNC para uma Landing Page de Arquitetura utilizando:
+Desafio básico proposto pela Escola DNC para uma Landing Page de Arquitetura utilizando:
 - HTML
 - CSS
 ____________________________________________________________________________________
@@ -14,3 +12,4 @@ ________________________________________________________________________________
 _______________________________________________________________________________________
 <b>Preview do Projeto: </b>
 
+## ![screencapture-127-0-0-1-5500-index-html-2023-05-23-18_18_51](https://github.com/maxsoares13/Desafio1DNC/assets/118302093/3efe29b4-90df-4f5e-8cfc-628eabf568d8)
