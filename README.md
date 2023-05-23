@@ -1,6 +1,6 @@
 # Desafio - Landing Page Arquitetura | Escola DNC
 
-Desafio básico proposto pela Escola DNC para uma Landing Page de Arquitetura utilizando:
+Desafio básico proposto pela Escola DNC criar um site apartir do Figma para uma Landing Page, utilizando as tecnologias:
 - HTML
 - CSS
 ____________________________________________________________________________________
