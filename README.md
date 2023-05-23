@@ -1,4 +1,4 @@
-# Desafio - Lading Page Arquitetura | Escola DNC
+# Desafio - Landing Page Arquitetura | Escola DNC
 
 Desafio básico proposto pela Escola DNC para uma Landing Page de Arquitetura utilizando:
 - HTML
